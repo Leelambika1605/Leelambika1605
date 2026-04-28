@@ -1,8 +1,9 @@
 # 💫 About Me:
-Hi, I'm a full-stack developer passionate about building AI-powered applications.  
-I enjoy working with modern web technologies and creating smart, scalable solutions.  
-Currently exploring AI integrations and developing knowledge-based platforms.
-
+- 💻 Full-stack developer focused on AI-powered applications  
+- 🚀 Building smart, scalable solutions using modern web technologies  
+- 🤖 Exploring AI integrations and knowledge-based systems  
+- 🧠 Strengthening problem-solving skills with Data Structures & Algorithms  
+- 📊 Regularly practicing coding on LeetCode
 ---
 
 # 💻 Tech Stack:
