@@ -1,67 +1,34 @@
-<h1 align="center">Hi 👋, I'm Leelambika</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Full-stack+developer;Exploring+modern+web+technologies;Always+learning+new+things" />
-</p>
+# 💫 About Me:
+Hi, I'm a full-stack developer passionate about building AI-powered applications.  
+I enjoy working with modern web technologies and creating smart, scalable solutions.  
+Currently exploring AI integrations and developing knowledge-based platforms.
 
 ---
 
-## 💫 About Me:
-- 💻 Full-stack developer passionate about AI-powered applications  
-- ⚡ Love building smart, scalable web solutions  
-- 🌱 Currently exploring AI integrations & knowledge-based platforms  
-- 🎯 Goal: Build impactful real-world AI products  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/leelambika-ra-701548328/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:leelambika.r1605@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Leelambika1605&show_icons=true&theme=dark&rank_icon=percentile&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com?user=Leelambika1605&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leelambika1605&theme=dark&layout=compact&include_all_commits=true&count_private=true&cache_seconds=1800)
 
 ---
 
-## 💻 Tech Stack:
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,aws,mysql,mongodb,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leelambika1605&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Leelambika1605&theme=tokyonight&hide_border=false" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leelambika1605&layout=compact&theme=tokyonight&cache_seconds=1800" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leelambika1605&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10"/>
-</p>
-
----
-
-## 🔥 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leelambika1605&theme=tokyo-night"/>
-</p>
-
----
-
-## 👀 Profile Views:
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leelambika1605&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+[![](https://komarev.com/ghpvc/?username=Leelambika1605&label=Profile%20Views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=Leelambika1605)
